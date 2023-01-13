@@ -1,0 +1,6 @@
+public class Problem247 {
+    public static void main(String[] args) {
+
+    }
+}
+
