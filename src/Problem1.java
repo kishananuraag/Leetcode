@@ -8,8 +8,9 @@ public class Problem1{
         // Test cases
         System.out.println(Arrays.toString(solution.twoSum(new int[]{2, 7, 11, 15}, 9)));
         System.out.println(Arrays.toString(solution.twoSum(new int[]{2, 7, 11, 15}, 10)));
+
     }
-    
+
 }
 
 class Problem1Solution{
